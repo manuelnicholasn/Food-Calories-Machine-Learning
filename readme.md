@@ -1,6 +1,6 @@
 # 🍔 Foories
 
-> Proudly presented by Capstonks Team 📈 B21-CAP0210
+
 
 ### Food Classification, Detection, and Calories Measurement
 
