@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Foories</string>
+    <string name="onboarding_picture">Onboarding Picture</string>
+    <string name="dot">dot</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="full_name">Full name</string>
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (Cm)</string>
+    <string name="age">Age</string>
+    <string name="submit">Submit</string>
+    <string name="activity_type">Activity Type</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="let_s_find_out_your_daily_calories_needs">Let\'s find out your daily calorie need</string>
+    <string name="screening">Screening</string>
+    <string name="check_mark">check mark</string>
+    <string name="success">Success</string>
+    <string name="calorie_information">Your daily calorie need is %1$d KCal per day. Keep your daily calorie consumption below the threshold using Foories!</string>
+    <string name="start">start</string>
+    <string name="welcome">Welcome</string>
+    <string name="calorie_percentage">%1$d %%</string>
+    <string name="confidence_percentage">%1$d %%</string>
+    <string name="calorie_progress">%1$d/%2$d KCal</string>
+    <string name="calorie_label">%1$d KCal</string>
+    <string name="add_food">Add Food</string>
+    <string name="today_s_food">Today\'s Food</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="it_s_too_quite_here_add_your_first_food">It’s too quite here. Add your first food</string>
+    <string name="food_image">Food Image</string>
+    <string name="food_detector">Food Detector</string>
+    <string name="detection_result">Detection Result</string>
+    <string name="foories_logo">Foories Logo</string>
+    <string name="history">History</string>
+</resources>
